@@ -1,5 +1,5 @@
-# Data-Analysis-Project
-A complete data analysis project covering Descriptive, Diagnostic, Predictive, and Prescriptive analytics, showcasing end-to-end insights and decision-making.
+# Data-Analytics-Project
+A complete data analytics project covering Descriptive, Diagnostic, Predictive, and Prescriptive analytics, showcasing end-to-end insights and decision-making.
 
 This repository is a collection of data analysis projects that demonstrate the full spectrum of analytics — from understanding past data to making future decisions.  
 
